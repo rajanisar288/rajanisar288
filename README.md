@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajanisar288" alt="rajanisar288" /></a> </p>
 
-- 🔭 I’m currently working on **eCommernce**
-
 - 🌱 I’m currently learning **Java, Spring Boot**
 
 - 👯 I’m looking to collaborate on **Angular library**
